@@ -1,0 +1,6 @@
+transformers
+nltk
+pandas
+streamlit
+pytest
+json
